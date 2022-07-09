@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "*.jsx": "javascriptreact",
+        "new": "cpp",
+        "vector": "cpp",
+        "ostream": "cpp",
+        "iostream": "cpp"
+    }
+}

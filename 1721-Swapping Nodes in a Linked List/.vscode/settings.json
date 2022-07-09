@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.jsx": "javascriptreact",
+        "type_traits": "cpp"
+    }
+}
